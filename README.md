@@ -5,14 +5,14 @@ Dataset:
 The dataset used for this project is the "New York City Taxi Fare Prediction" dataset from Kaggle. It contains approximately 55 million records of taxi trips with information such as pickup and dropoff times, locations, passenger counts, and fare amounts.
 
 Requirements:
-Python 3.6 or higher
-Jupyter Notebook
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-Running the Project
+Python 3.6 or higher,
+Jupyter Notebook,
+pandas,
+numpy,
+scikit-learn,
+matplotlib,
+seaborn,
+Running the Project and 
 Clone the repository to your local machine.
 Download the dataset from Kaggle and place it in the same directory as the notebook.
 Open the Jupyter Notebook and run each cell in order.
